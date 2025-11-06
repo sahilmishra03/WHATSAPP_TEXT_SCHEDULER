@@ -104,7 +104,7 @@ If this project helped you or inspired you —
 ## 🌍 Connect With Me
 
 Let’s connect and build cool projects together!  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sahilmishra03/)  
 💻 [GitHub](https://github.com/sahilmishra03)
 
 ---
