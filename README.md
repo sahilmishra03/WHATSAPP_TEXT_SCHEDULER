@@ -23,7 +23,7 @@ I built a **“Scheduled Message” feature** — just like WhatsApp — where y
 
 🎬 *Check out the working demo below:*  
 
-![App Demo](https://github.com/yourusername/whatsapp-scheduler/blob/main/assets/demo.gif)
+![App Demo](https://github.com/sahilmishra03/WHATSAPP_TEXT_SCHEDULER/blob/main/assets/demo.gif?raw=true)
 
 ---
 
@@ -73,11 +73,11 @@ If a simple tiffin reminder can inspire a real feature, imagine what else small 
 
 1. Clone this repository  
    ```bash
-   git clone https://github.com/yourusername/whatsapp-scheduler.git
+   git clone https://github.com/sahilmishra03/WHATSAPP_TEXT_SCHEDULER.git
    ```
 2. Navigate to the project folder  
    ```bash
-   cd whatsapp-scheduler
+   cd whatsapp_text_scheduler
    ```
 3. Get dependencies  
    ```bash
@@ -103,7 +103,7 @@ If this project helped you or inspired you —
 
 Let’s connect and build cool projects together!  
 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-💻 [GitHub](https://github.com/yourusername)
+💻 [GitHub](https://github.com/sahilmishra03)
 
 ---
 
