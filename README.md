@@ -23,7 +23,9 @@ I built a **“Scheduled Message” feature** — just like WhatsApp — where y
 
 🎬 *Check out the working demo below:*  
 
-![App Demo](https://github.com/sahilmishra03/WHATSAPP_TEXT_SCHEDULER/blob/main/assets/demo.gif?raw=true)
+<a href="https://github.com/sahilmishra03/WHATSAPP_TEXT_SCHEDULER/blob/main/assets/demo.gif?raw=true" target="_blank">
+  <img src="https://github.com/sahilmishra03/WHATSAPP_TEXT_SCHEDULER/blob/main/assets/demo.gif?raw=true" width="400" alt="App Demo"/>
+</a>
 
 ---
 
