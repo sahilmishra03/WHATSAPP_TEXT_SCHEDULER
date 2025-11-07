@@ -1,6 +1,6 @@
-# 💬 WhatsApp Scheduled Message Feature (Flutter + Firebase)
+# 💬 WhatsApp Scheduled Message Feature Demo (Flutter + Firebase)
 
-> 🚀 A small real-life problem turned into a smart Flutter solution!
+> 🚀 A small real-life problem turned into a smart Flutter demonstration!
 
 ---
 
@@ -12,10 +12,8 @@ My provider asked me to send a confirmation message **every day at 5 AM** — bu
 And that meant **no tiffin for the day.**  
 So, I decided to **solve my own problem using code.**
 
-I built a **“Scheduled Message” feature** — just like WhatsApp — where you can:
-- ✍️ Type a custom message  
-- ⏰ Pick the exact time  
-- 📤 Automatically send it to a contact at that time  
+I built a **“Scheduled Message” feature demo** — showing how such a feature could be integrated into WhatsApp.  
+It’s a **proof-of-concept** built using **Flutter + Firebase**, demonstrating message scheduling, automation, and real-time updates.
 
 ---
 
@@ -39,12 +37,12 @@ I built a **“Scheduled Message” feature** — just like WhatsApp — where y
 
 ## ✨ Features
 
-✅ Schedule a custom message for any chat  
-✅ Message appears automatically on the set time  
+✅ Demonstrates how a scheduled message system could work  
+✅ Set a custom message and exact delivery time  
 ✅ Clean and modern Flutter UI  
-✅ Firebase used for real-time message storage and updates  
-✅ Local scheduling using Flutter’s background mechanism  
-✅ Educational and practical project for students  
+✅ Firebase for real-time data sync  
+✅ Local scheduling logic for automation  
+✅ Educational and practical concept for students  
 
 ---
 
@@ -58,8 +56,8 @@ However, in the future, we plan to use **Firebase Cloud Functions** or **backgro
 ## 🔮 Future Improvements
 
 🚀 Background scheduling using **Firebase Functions / Cloud Scheduler**  
-📱 Integration with real WhatsApp APIs (for simulation)  
-🔔 Notification system before a message sends  
+📱 Integration with real WhatsApp APIs (concept demonstration)  
+🔔 Notification system before message delivery  
 🌙 Offline support  
 
 ---
@@ -104,7 +102,7 @@ If this project helped you or inspired you —
 ## 🌍 Connect With Me
 
 Let’s connect and build cool projects together!  
-🔗 [LinkedIn](https://www.linkedin.com/in/sahilmishra03/)  
+🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
 💻 [GitHub](https://github.com/sahilmishra03)
 
 ---
